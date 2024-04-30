@@ -1,4 +1,4 @@
-SEMINAR1 1 - STRUCTURI SI FUNCTII
+//SEMINAR1 1 - STRUCTURI SI FUNCTII
  
  #include<stdio.h>
 #include<stdlib.h>
